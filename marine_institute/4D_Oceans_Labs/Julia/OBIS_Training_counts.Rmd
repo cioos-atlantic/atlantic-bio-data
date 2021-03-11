@@ -1,0 +1,148 @@
+---
+title: "OBIS_Training_Counts"
+output: html_document
+---
+
+# Approach
+
+ - Focus on Count data / presence/absence is derived
+ - Fix Data (date/time zero padding, blah, blah)
+ - pivot species matrix columns into rows and reformat for lookup
+ - lookup species data via WoRMS
+ - split into event, occurrence and eMOF files
+ - create DwCA
+ 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = ".")
+
+library(dplyr)
+library(stringr)
+```
+
+# Fix Data
+
+## Read data
+
+Account for file Encoding - possibly need to identify before reading
+
+```{r}
+counts_data = data.table::fread(file='OBIS_training_counts.csv')
+
+head(counts_data)
+```
+
+## Fix Dates
+
+Date columns are missing leading 0, pad them out with to 8 characters in length with leading zeroes
+
+```{r counts_data}
+counts_data_fix <- counts_data %>% mutate(date_ddmmyyyy = str_pad(date_ddmmyyyy, 8, side='left', pad='0'))
+View(counts_data_fix)
+```
+
+
+## Pivot species names
+
+Column names after depth_m are a matrix of species data, these need to be pivoted while maintaining the connection to the prior columns
+
+```{r counts_data_fix}
+library(tidyr)
+species_cols <- names(counts_data_fix) %>% str_subset(pattern=".+\\..+")
+species_cols
+counts_data_pivot <- counts_data_fix %>% pivot_longer(cols=all_of(species_cols), names_to = "speciesName", values_to = "counts")
+
+counts_data_pivot <- counts_data_pivot %>% mutate(speciesName = str_replace(speciesName, fixed("."), " "))
+
+View(counts_data_pivot)
+```
+
+
+# Query WoRMS
+
+Extract all distinct species names from the pivoted dataset, use obis tools to query WoRMS and extract the LSID for the matching names and add it to the sciNameID field and then join it to the pivoted dataset
+
+```{r counts_data_pivot}
+library(tidyverse)
+library(worrms)
+library(obistools)
+
+species_list <- counts_data_pivot %>% distinct(speciesName)
+
+# species_list$sciNameID=''
+
+species_list <- species_list %>% mutate(sciNameID = obistools::match_taxa(`speciesName`, ask=FALSE)$scientificNameID)
+
+counts_data_species <- left_join(counts_data_pivot, species_list, by=c("speciesName" = "speciesName"))
+
+counts_data_aphia <- counts_data_species %>% mutate(aphiaID = parse_integer(str_extract(counts_data_species$sciNameID, pattern = "([0-9]+)")))
+
+# Extract list of distinct aphiaIDs for querying to WoRMS
+aphiaIds = distinct(counts_data_aphia, aphiaID)
+
+# Use unlist(aphiaIds) to convert from dataframe to 
+# vector so wm_classification_ will like it
+classes = worrms::wm_classification_(id = unlist(aphiaIds))
+
+# pivot class information into a wider
+classes_pivot_wide = select(pivot_wider(select(classes, id, rank, scientificname), names_from = rank, values_from = scientificname), id, Kingdom, Phylum, Class, Order, Family, Genus)
+
+# Convert ids into integers from string
+classes_pivot_wide <- classes_pivot_wide %>% mutate(id = parse_integer(id))
+
+counts_data_phylum <- left_join(counts_data_aphia, classes_pivot_wide, by=c("aphiaID" = "id"))
+View(counts_data_phylum)
+
+
+```
+
+# Create Events
+
+
+```{r counts_data_phylum}
+library(data.table)
+
+# PreservedSpecimen, FossilSpecimen, LivingSpecimen, HumanObservation or MachineObservation (see https://obis.org/manual/darwincore/). MaterialSample can be used if the claim is based on sample specimen. Someone held the specimen closely and examined it to determine the taxon it belongs to. It is for specimens that were removed from the environment.
+
+# Setting all occurences to "HumanObservation"
+counts_data_phylum$basisOfRecord = "HumanObservation"
+
+# calculating occurence status by assigning Present or Absent based on count being greater than zero
+counts_data_pa <- counts_data_phylum %>% mutate(occurrenceStatus = ifelse(counts > 0, "Present", "Absent"))
+
+counts_data_occr_id <- counts_data_pa %>% mutate(occurrenceID = row_number())
+
+events <- counts_data_phylum %>% distinct(Project)
+
+# higherGeography	country	stateProvince	locality	minimumDepthInMeters	maximumDepthInMeters	decimalLatitude	decimalLongitude
+# COR11	site	COR11			COR11	Great Barrier Reef	Australia	Queensland	Hastings Reef			-16.53	145.99
+
+event_table <- setNames(data.table(matrix(nrow = 0, ncol = length(event_fields()))), event_fields())
+
+# map field values
+# add first row and add values
+
+event_table$id = events
+event_table$eventID = event_table$id
+event_table$type = "site"
+event_table$parentEventID = ""
+event_table$eventDate = ""
+event_table$locationID = event_table$id
+event_table$higherGeography = event_table$id
+event_table$country = event_table$id
+event_table$stateProvince = event_table$id
+event_table$locality = event_table$id
+event_table$minimumDepthInMeters = event_table$id
+event_table$maximumDepthInMeters = event_table$id
+event_table$decimalLatitude = event_table$id
+event_table$decimalLongitude = event_table$id
+
+
+
+
+
+surveys <- counts_data_phylum %>% distinct(SurveyArea)
+
+```
+

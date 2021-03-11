@@ -1,0 +1,4 @@
+Approach:
+ - Concentrate on transforming raw data into darwin core and leave derived values and calculations, can be included as supplemental data
+ - Focus on events and occurence data (counts) first, 
+ - then move onto extended measurements and facts to cover traits and environmental
