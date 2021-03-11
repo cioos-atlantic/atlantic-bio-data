@@ -1,2 +1,2 @@
-# bio_data
+# atlantic-bio-data
 Some CIOOS Atlantic biological datasets
