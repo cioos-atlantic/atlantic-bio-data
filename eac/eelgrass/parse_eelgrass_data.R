@@ -5,15 +5,17 @@
 # Install packages; uncomment and run if packages not already installed
 # install.packages(c("tidyverse", "uuid"))
 
+# Load packages
+lapply(c("tidyverse", "lubridate", "magrittr"),
+       library, character.only = TRUE)
+
+setwd(dir="C:/Users/jf482672/Documents/atlantic-bio-data/eac/eelgrass")
+
 ast_to_utc <- function(date_str) {
   out_date <- as.POSIXct(date_str, format="%d-%m-%Y %H:%M:%S", tz="America/Halifax")
   attr(out_date, "tzone") <- "UTC"
   return(format_ISO8601(out_date))
 }
-
-# Load packages
-lapply(c("tidyverse", "lubridate", "magrittr"),
-       library, character.only = TRUE)
 
 raw_csv_filename <- "EAC_CitSci_Eelgrass_Data_First_Complete_Trip_2Mar21_JT_2020-08-10.csv"
 eelgrassData <- 
