@@ -1,0 +1,513 @@
+﻿paddler,location,basisOfRecord,occurrenceID,eventDate,decimalLatitude,decimalLongitude,image.filename,image.quality,est.cam.height,substrate,scientificName ,scientificNameID,occurrenceStatus,braun.blanquet,Percent.cover,macroalgae.present,image.coder,notes,QC.review
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:28:57,44.65679388,-63.42011308,G0060213,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:29:07,44.65679422,-63.42026939,G0060214,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:29:17,44.65681357,-63.42042151,G0060215,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:29:27,44.65684508,-63.42055081,G0060216,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:29:37,44.6568793,-63.42070583,G0060217,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:29:47,44.65690294,-63.42083852,G0060218,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:29:57,44.65692607,-63.42091947,G0060219,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:30:07,44.65694471,-63.42100877,G0060220,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:30:17,44.657002,-63.42117582,G0060221,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:30:28,44.65704743,-63.42130779,G0060222,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual time of photo ""2020-07-17  6:30:27 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:30:37,44.65705806,-63.42140692,G0060223,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:30:47,44.65707847,-63.4214887,G0060224,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:30:57,44.65710417,-63.42156717,G0060225,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:31:07,44.65712964,-63.42168215,G0060226,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:31:17,44.65715573,-63.42182069,G0060227,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:31:27,44.65716382,-63.42197371,G0060228,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:31:37,44.6571733,-63.422059,G0060229,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:31:47,44.65716215,-63.42214949,G0060230,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:31:57,44.65714026,-63.42230552,G0060231,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:32:07,44.65711241,-63.42239992,G0060232,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:32:21,44.65730738,-63.42244509,G0060233,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual time of photo ""2020-07-17  6:32:17 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:32:27,44.65720405,-63.42255962,G0060234,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:32:37,44.65702915,-63.42273356,G0060235,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:32:47,44.65692809,-63.42278987,G0060236,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:32:57,44.65690791,-63.4228645,G0060237,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:33:07,44.6568788,-63.42285617,G0060238,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:33:17,44.65687175,-63.42284555,G0060239,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:33:27,44.65686564,-63.42283508,G0060240,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:33:37,44.65684984,-63.42280638,G0060241,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:33:47,44.65677702,-63.42275598,G0060242,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:33:57,44.65669998,-63.42276211,G0060243,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:34:07,44.65660579,-63.42279649,G0060244,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:34:17,44.65653351,-63.42288744,G0060245,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:34:27,44.6564863,-63.42294566,G0060246,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:34:37,44.65644312,-63.42301136,G0060247,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:34:47,44.65638133,-63.42308676,G0060248,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:34:57,44.65637007,-63.42308992,G0060249,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:35:07,44.65638057,-63.4232079,G0060250,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:35:17,44.65632513,-63.42337408,G0060251,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:35:27,44.65624924,-63.42347829,G0060252,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:35:37,44.6561733,-63.42356644,G0060253,3,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:35:47,44.65609336,-63.42362881,G0060254,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:35:57,44.65601811,-63.42368574,G0060255,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:36:07,44.65594231,-63.42373284,G0060256,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:36:17,44.65588781,-63.42376357,G0060257,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:36:27,44.65583679,-63.42379478,G0060258,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:36:37,44.65578968,-63.42381399,G0060259,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:36:47,44.65572701,-63.42384857,G0060260,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:36:57,44.65565348,-63.42399534,G0060261,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:37:07,44.65559186,-63.42417617,G0060262,1,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:37:17,44.65553847,-63.42434283,G0060263,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:37:27,44.65550011,-63.42455315,G0060264,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:37:37,44.65547148,-63.42474543,G0060265,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:37:47,44.65546861,-63.42492444,G0060266,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:37:57,44.65546312,-63.42508071,G0060267,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:38:07,44.65548774,-63.42522364,G0060268,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:38:17,44.6555322,-63.42535525,G0060269,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:38:27,44.65557833,-63.42542651,G0060270,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:38:37,44.65565056,-63.42557294,G0060271,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:38:47,44.65570337,-63.42573588,G0060272,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:38:57,44.65573167,-63.42591318,G0060273,2,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:39:07,44.65573483,-63.42598274,G0060274,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:39:17,44.65575284,-63.42604521,G0060275,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:39:27,44.65578057,-63.42616807,G0060276,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:39:37,44.65581636,-63.42628553,G0060277,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:39:47,44.65584328,-63.42641451,G0060278,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:39:57,44.65588193,-63.42653254,G0060279,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:40:07,44.65594672,-63.42665763,G0060280,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:40:17,44.65596369,-63.42684591,G0060281,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:40:27,44.65594573,-63.42704233,G0060282,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:40:37,44.65590228,-63.42722105,G0060283,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:40:47,44.65584207,-63.42743243,G0060284,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:40:57,44.65579672,-63.4275975,G0060285,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:41:07,44.65570996,-63.42775073,G0060286,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:41:17,44.65561453,-63.42789894,G0060287,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:41:27,44.65548401,-63.42801342,G0060288,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:41:37,44.65538041,-63.42811164,G0060289,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:41:47,44.65529234,-63.42821536,G0060290,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:41:57,44.65518624,-63.42832659,G0060291,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:42:07,44.65508429,-63.42845373,G0060292,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:42:17,44.65497824,-63.42858387,G0060293,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:42:27,44.65488523,-63.42871505,G0060294,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:42:37,44.65479883,-63.42886758,G0060295,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:42:47,44.65474216,-63.42904888,G0060296,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:42:57,44.65471777,-63.42914276,G0060297,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:43:06,44.65468198,-63.42915444,G0060298,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  6:43:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:43:17,44.65465641,-63.42918142,G0060299,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:43:27,44.65471895,-63.42921,G0060300,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Some eelgrass present but difficult to Score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:43:37,44.6548048,-63.42928476,G0060301,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Some eelgrass present but difficult to Score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:43:47,44.65489061,-63.42935512,G0060302,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:43:57,44.65501451,-63.42945802,G0060303,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:44:07,44.6551418,-63.4295513,G0060304,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:44:17,44.65526325,-63.42963709,G0060305,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:44:27,44.65539291,-63.4297308,G0060306,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:44:37,44.65551977,-63.42979769,G0060307,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:44:47,44.6556343,-63.42986566,G0060308,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:44:57,44.65577174,-63.42995774,G0060309,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Some eelgrass present but difficult to Score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:45:07,44.65588248,-63.43000067,G0060310,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:45:17,44.65599022,-63.43004845,G0060311,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:45:27,44.65611719,-63.43011535,G0060312,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Some eelgrass present but difficult to Score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:45:37,44.65625043,-63.43017471,G0060313,1,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Some eelgrass present but difficult to Score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:45:47,44.65636092,-63.43022249,G0060314,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:45:57,44.65643334,-63.43025323,G0060315,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:46:07,44.65649961,-63.43029704,G0060316,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:46:17,44.6565616,-63.43033284,G0060317,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:46:27,44.65660253,-63.43037334,G0060318,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:46:37,44.65662895,-63.43038687,G0060319,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,Possible Widgeon grass at the bottom?,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:46:47,44.65663893,-63.43039988,G0060320,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:46:57,44.65665926,-63.43042082,G0060321,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:47:07,44.65667665,-63.43043013,G0060322,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:47:17,44.65668727,-63.4304449,G0060323,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:47:27,44.65670625,-63.43046182,G0060324,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:47:37,44.65682315,-63.43053325,G0060325,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:47:47,44.65694504,-63.43057831,G0060326,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:47:57,44.65705584,-63.43060103,G0060327,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2,44341,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:48:07,44.65715637,-63.43065169,G0060328,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:48:17,44.65726577,-63.43069249,G0060329,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:48:27,44.65738413,-63.43077715,G0060330,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:48:37,44.65751334,-63.43085469,G0060331,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:48:47,44.65767288,-63.43096948,G0060332,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:48:57,44.65782778,-63.43110544,G0060333,2,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:49:07,44.6579854,-63.43122784,G0060334,2,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:49:17,44.65813745,-63.43135103,G0060335,2,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:49:27,44.65828651,-63.43147266,G0060336,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:49:37,44.65843142,-63.43159007,G0060337,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:49:47,44.65857308,-63.43169911,G0060338,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:49:57,44.65871254,-63.4318254,G0060339,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:50:07,44.65882994,-63.43193885,G0060340,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:50:17,44.65895543,-63.43206966,G0060341,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:50:27,44.65908091,-63.43222748,G0060342,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:50:37,44.65919612,-63.43236187,G0060343,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:50:47,44.65931226,-63.43249657,G0060344,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:50:57,44.65944869,-63.43263654,G0060345,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:51:07,44.65958367,-63.43279537,G0060346,1,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:51:17,44.65969117,-63.43291487,G0060347,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:51:27,44.6597898,-63.4330562,G0060348,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:51:37,44.65990019,-63.43320474,G0060349,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:51:47,44.66000968,-63.43333353,G0060350,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:51:57,44.66013413,-63.43344848,G0060351,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:52:07,44.66027196,-63.43356734,G0060352,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:52:17,44.66039912,-63.43371335,G0060353,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:52:27,44.66053746,-63.43384581,G0060354,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:52:37,44.66069192,-63.434012,G0060355,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:52:47,44.66083972,-63.43419222,G0060356,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:52:57,44.66095564,-63.4343746,G0060357,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:53:07,44.6610433,-63.43454232,G0060358,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:53:17,44.66111179,-63.43468792,G0060359,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:53:27,44.66116782,-63.43484683,G0060360,1,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:53:37,44.6612311,-63.43501948,G0060361,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:53:47,44.6613066,-63.43515712,G0060362,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:53:57,44.66140453,-63.43531786,G0060363,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.1,<5,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:54:07,44.66151535,-63.43548745,G0060364,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:54:17,44.66160514,-63.43563658,G0060365,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:54:27,44.66165412,-63.43572699,G0060366,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:54:37,44.66169751,-63.4358157,G0060367,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:54:47,44.66177016,-63.4358971,G0060368,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:54:57,44.66183439,-63.43601238,G0060369,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:55:07,44.66192112,-63.43612504,G0060370,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:55:17,44.66197262,-63.43621376,G0060371,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:55:27,44.66202213,-63.43631425,G0060372,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:55:37,44.66211147,-63.43645955,G0060373,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:55:47,44.66217943,-63.43658864,G0060374,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:55:57,44.66223774,-63.43669982,G0060375,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:56:07,44.66228613,-63.43682099,G0060376,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:56:17,44.66234941,-63.43699071,G0060377,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:56:27,44.66241118,-63.43716798,G0060378,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:56:37,44.66245078,-63.43734967,G0060379,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:56:47,44.66248871,-63.43751692,G0060380,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:56:57,44.66253819,-63.43768292,G0060381,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:57:07,44.66258563,-63.43782507,G0060382,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:57:17,44.66261345,-63.43800846,G0060383,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:57:27,44.66267867,-63.43820108,G0060384,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:57:37,44.6627069,-63.43840639,G0060385,2,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:57:47,44.66273351,-63.43859025,G0060386,2,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:57:57,44.66275843,-63.43878937,G0060387,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:58:07,44.6627538,-63.43898431,G0060388,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,"A.O,",,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:58:17,44.66277065,-63.43919997,G0060389,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:58:27,44.66277387,-63.43934316,G0060390,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:58:37,44.66278931,-63.43951913,G0060391,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:58:47,44.66281975,-63.43967825,G0060392,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:58:57,44.6628726,-63.43982917,G0060393,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:59:07,44.66290027,-63.4399283,G0060394,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:59:17,44.66290275,-63.43999623,G0060395,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:59:27,44.66290724,-63.44007303,G0060396,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:59:37,44.66292058,-63.44012494,G0060397,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:59:47,44.66292583,-63.44027479,G0060398,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 06:59:57,44.66293841,-63.44039474,G0060399,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:00:07,44.66295714,-63.44053152,G0060400,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:00:17,44.66299733,-63.4407138,G0060401,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:00:27,44.66303384,-63.44088353,G0060402,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:00:37,44.6630715,-63.44105363,G0060403,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:00:47,44.66311398,-63.44123284,G0060404,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:00:57,44.66314622,-63.44134137,G0060405,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:01:07,44.66318788,-63.44148497,G0060406,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:01:17,44.66323693,-63.44162444,G0060407,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:01:27,44.66329946,-63.44179159,G0060408,3,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:01:37,44.66335921,-63.44199586,G0060409,3,3,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:01:47,44.66340753,-63.44219812,G0060410,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:01:57,44.66345699,-63.44240876,G0060411,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:02:07,44.66348181,-63.44261112,G0060412,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:02:17,44.66350927,-63.44281675,G0060413,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:02:27,44.66352772,-63.44305736,G0060414,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:02:37,44.66353641,-63.44330447,G0060415,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:02:47,44.66352447,-63.44349319,G0060416,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:02:57,44.66346027,-63.44366904,G0060417,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:03:07,44.66340382,-63.44385166,G0060418,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:03:17,44.66336947,-63.44398262,G0060419,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:03:27,44.66329859,-63.44415189,G0060420,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:03:37,44.66325169,-63.44422669,G0060421,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:03:47,44.66325897,-63.4443618,G0060422,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:03:57,44.66327632,-63.44452468,G0060423,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:04:07,44.66332281,-63.44470048,G0060424,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:04:17,44.66336407,-63.44487299,G0060425,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:04:27,44.66341532,-63.44504178,G0060426,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:04:37,44.66346442,-63.44519112,G0060427,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:04:47,44.66351536,-63.44532041,G0060428,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:04:57,44.66354999,-63.44542447,G0060429,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:05:07,44.66361777,-63.4454805,G0060430,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:05:17,44.66368664,-63.44561244,G0060431,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:05:27,44.66376335,-63.44580066,G0060432,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:05:37,44.66379733,-63.44593936,G0060433,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:05:47,44.66384358,-63.44608633,G0060434,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:05:57,44.66387711,-63.4461917,G0060435,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:06:07,44.66392989,-63.44631397,G0060436,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:06:17,44.66399495,-63.44646513,G0060437,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:06:27,44.66405492,-63.44659713,G0060438,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:06:37,44.66413535,-63.44676008,G0060439,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:06:47,44.66420089,-63.44692422,G0060440,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:06:57,44.66427982,-63.4470902,G0060441,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:07:07,44.6643713,-63.44722122,G0060442,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:07:17,44.66449994,-63.44735832,G0060443,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:07:28,44.66463956,-63.44748881,G0060444,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:07:27 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:07:37,44.66473505,-63.44755811,G0060445,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:07:47,44.66484183,-63.44763058,G0060446,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:07:57,44.66494762,-63.44771789,G0060447,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:08:07,44.66505823,-63.44782221,G0060448,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:08:17,44.66514007,-63.44789883,G0060449,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:08:27,44.6652029,-63.44799259,G0060450,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:08:37,44.66525967,-63.44807975,G0060451,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:08:47,44.66532032,-63.44815619,G0060452,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:08:57,44.66534958,-63.44818396,G0060453,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:09:07,44.66536011,-63.44818399,G0060454,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:09:17,44.6653473,-63.44820116,G0060455,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:09:27,44.6653549,-63.44825039,G0060456,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:09:37,44.66537251,-63.44831546,G0060457,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:09:47,44.66537808,-63.44834767,G0060458,3,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:09:57,44.66537411,-63.44835013,G0060459,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:10:06,44.66538443,-63.4483775,G0060460,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,"Actual Time of Photo ""2020-07-17  7:10:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:10:17,44.66542065,-63.44843201,G0060461,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:10:26,44.66544611,-63.44846964,G0060462,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:10:27 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:10:37,44.6654647,-63.44854084,G0060463,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:10:47,44.66553925,-63.4486175,G0060464,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:10:56,44.66559896,-63.44869502,G0060465,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:10:57 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:11:07,44.66569277,-63.44879346,G0060466,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:11:17,44.66579491,-63.44886428,G0060467,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:11:26,44.66588751,-63.44893822,G0060468,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:11:27 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:11:37,44.66598489,-63.44903328,G0060469,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:11:47,44.66608409,-63.44911724,G0060470,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:11:57,44.66619923,-63.44918063,G0060471,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:12:07,44.66630519,-63.44928734,G0060472,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:12:17,44.66642016,-63.44935533,G0060473,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:12:27,44.66651328,-63.44940683,G0060474,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:12:38,44.66658402,-63.44946094,G0060475,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,"Actual Time of Photo ""2020-07-17  7:12:37 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:12:47,44.66665684,-63.44947773,G0060476,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:12:57,44.66671675,-63.44952969,G0060477,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:13:07,44.66679446,-63.44962624,G0060478,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:13:17,44.66685756,-63.44971379,G0060479,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:13:27,44.66692522,-63.44983931,G0060480,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:13:37,44.66698377,-63.44995691,G0060481,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:13:47,44.66703635,-63.45006547,G0060482,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:13:57,44.66708369,-63.45016228,G0060483,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:14:06,44.6671119,-63.45021598,G0060484,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:14:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:14:17,44.66717624,-63.45034674,G0060485,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:14:27,44.66722029,-63.45043073,G0060486,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:14:37,44.66725632,-63.45056683,G0060487,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:14:47,44.66729316,-63.45072383,G0060488,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:14:57,44.66731251,-63.45081039,G0060489,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:15:07,44.6673034,-63.45084995,G0060490,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:15:17,44.66731155,-63.45089352,G0060491,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:15:27,44.66734564,-63.45095109,G0060492,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:15:37,44.66738131,-63.45105358,G0060493,1,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Eelgrass present but difficult to score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:15:47,44.66742836,-63.45117189,G0060494,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:15:57,44.66744965,-63.45128995,G0060495,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:16:07,44.66746257,-63.45147266,G0060496,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:16:17,44.66746117,-63.4517093,G0060497,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:16:27,44.66745916,-63.45195452,G0060498,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:16:37,44.66746718,-63.45215406,G0060499,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:16:47,44.66748522,-63.45237978,G0060500,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:16:57,44.66753823,-63.45262923,G0060501,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:17:07,44.66759413,-63.45285264,G0060502,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:17:17,44.66767095,-63.45302348,G0060503,1,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Eelgrass present but difficult to score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:17:27,44.66774707,-63.45317011,G0060504,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:17:37,44.66780914,-63.45327864,G0060505,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:17:47,44.66786157,-63.45341793,G0060506,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:17:57,44.66790595,-63.4535109,G0060507,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:18:07,44.66797187,-63.45359269,G0060508,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:18:17,44.6680941,-63.45367314,G0060509,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:18:27,44.66820861,-63.45369834,G0060510,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:18:37,44.66831624,-63.45375658,G0060511,1,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:18:47,44.66839036,-63.45378552,G0060512,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:18:57,44.66849124,-63.45381611,G0060513,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:19:07,44.66859937,-63.45386563,G0060514,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:19:17,44.66871062,-63.45386696,G0060515,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:19:27,44.66882378,-63.45390707,G0060516,1,1,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Cant see Substrate in majority of picture. Thus, NA.",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:19:37,44.66893133,-63.45393143,G0060517,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:19:47,44.66905119,-63.45395348,G0060518,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:19:57,44.66916149,-63.45395832,G0060519,1,1,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Hard to see Substrate in majority of picture. Thus, NA. ",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:20:06,44.66924565,-63.45394006,G0060520,1,1,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:20:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:20:17,44.66935717,-63.4539493,G0060521,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:20:27,44.66946028,-63.45397579,G0060522,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:20:37,44.66955717,-63.45395048,G0060523,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:20:50,44.66968822,-63.45387272,G0060524,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:20:47 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:20:57,44.66974444,-63.45381299,G0060525,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:21:06,44.6697884,-63.45376467,G0060526,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:21:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:21:17,44.6698412,-63.45370255,G0060527,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:21:27,44.66990062,-63.45359531,G0060528,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:21:37,44.66996123,-63.45353502,G0060529,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:21:47,44.66996825,-63.45347265,G0060530,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:21:57,44.66998511,-63.45343759,G0060531,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:22:07,44.67000194,-63.45341312,G0060532,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:22:17,44.67001996,-63.45339872,G0060533,2,2,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:22:27,44.67003408,-63.45338826,G0060534,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:22:37,44.67003929,-63.4533555,G0060535,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:22:47,44.67007945,-63.45324303,G0060536,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O. ,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:22:57,44.67012496,-63.45318481,G0060537,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:23:07,44.67015974,-63.45310419,G0060538,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:23:17,44.67018726,-63.45297059,G0060539,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:23:27,44.67025311,-63.45284968,G0060540,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:23:37,44.67031135,-63.45277191,G0060541,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:23:47,44.67037092,-63.45265491,G0060542,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:23:55,44.67040246,-63.45256205,G0060543,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:23:57 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:24:07,44.67049518,-63.45241661,G0060544,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:24:15,44.67055393,-63.45236057,G0060545,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:24:17 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:24:27,44.6706071,-63.45228309,G0060546,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:24:37,44.67068774,-63.45217592,G0060547,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Eelgrass present but difficult to score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:24:47,44.67073335,-63.45213003,G0060548,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:24:58,44.67079427,-63.45201325,G0060549,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,"Actual Time of Photo ""2020-07-17  7:24:57 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:25:09,44.67082183,-63.45195781,G0060550,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:25:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:25:17,44.67087225,-63.45195042,G0060551,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:25:27,44.6709178,-63.45191318,G0060552,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,ABNORMAL algae cover,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:25:37,44.67095011,-63.45188845,G0060553,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:25:48,44.6709695,-63.45187417,G0060554,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:25:47 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:25:57,44.67100542,-63.4518524,G0060555,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:26:07,44.67108557,-63.45179044,G0060556,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:26:17,44.67115389,-63.45170925,G0060557,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:26:28,44.67122759,-63.4515797,G0060558,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,"Actual Time of Photo ""2020-07-17  7:26:27 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:26:37,44.67126303,-63.45149423,G0060559,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:26:47,44.67127437,-63.45142221,G0060560,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:26:57,44.67128368,-63.45137366,G0060561,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:27:07,44.67129392,-63.4512619,G0060562,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:27:17,44.67129814,-63.45111968,G0060563,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:27:27,44.67132337,-63.45094062,G0060564,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:27:37,44.67133669,-63.45077764,G0060565,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:27:47,44.67136816,-63.45059563,G0060566,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:27:57,44.67138808,-63.45047077,G0060567,1,1,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:28:07,44.67140162,-63.45039699,G0060568,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:28:17,44.67140756,-63.45033342,G0060569,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,3,25-50,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:28:27,44.6714403,-63.45023182,G0060570,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:28:37,44.67147025,-63.45005964,G0060571,1,1,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:28:47,44.67149693,-63.44988842,G0060572,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:28:57,44.67151015,-63.44971323,G0060573,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:29:07,44.67148168,-63.44954956,G0060574,3,1,soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:29:17,44.67146388,-63.44946312,G0060575,3,1,Soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:29:27,44.67144546,-63.4493798,G0060576,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:29:37,44.67141982,-63.44922296,G0060577,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:29:47,44.67137843,-63.4490544,G0060578,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:29:57,44.67134458,-63.44890015,G0060579,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Eelgrass present but difficult to score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:30:07,44.67131135,-63.44875387,G0060580,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:30:17,44.67127929,-63.44867485,G0060581,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:30:27,44.67126351,-63.44863319,G0060582,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:30:37,44.67123966,-63.44856715,G0060583,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:30:47,44.67117987,-63.44844599,G0060584,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:30:57,44.67111575,-63.44830301,G0060585,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:31:07,44.67107202,-63.44813966,G0060586,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:31:16,44.67105126,-63.44804654,G0060587,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:31:17 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:31:27,44.67101348,-63.44787962,G0060588,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:31:37,44.67098714,-63.44772477,G0060589,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:31:47,44.67095542,-63.44759612,G0060590,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:31:57,44.67090514,-63.44742647,G0060591,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:32:07,44.67083228,-63.44727601,G0060592,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:32:17,44.67077349,-63.44715,G0060593,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:32:27,44.6707355,-63.44706637,G0060594,2,1,soft ,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:32:37,44.67068487,-63.44691668,G0060595,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:32:47,44.67064685,-63.446773,G0060596,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:32:57,44.6706161,-63.44670107,G0060597,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:33:07,44.67058316,-63.44658789,G0060598,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:33:17,44.67055586,-63.44648462,G0060599,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:33:27,44.67051029,-63.44632781,G0060600,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:33:35,44.67045983,-63.44621756,G0060601,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:33:37 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:33:48,44.67039793,-63.44603868,G0060602,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:33:47 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:33:57,44.67033793,-63.44587989,G0060603,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:34:07,44.67028183,-63.44573195,G0060604,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:34:17,44.67021453,-63.44557771,G0060605,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,Eelgrass present but difficult to score,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:34:27,44.67013335,-63.4454244,G0060606,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:34:37,44.67006449,-63.44529851,G0060607,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:34:47,44.67000552,-63.44513098,G0060608,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:34:57,44.66996524,-63.44496953,G0060609,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:35:06,44.66992322,-63.44480414,G0060610,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,"Actual Time of Photo ""2020-07-17  7:35:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:35:17,44.66989508,-63.44459615,G0060611,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:35:27,44.66986774,-63.44440769,G0060612,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:35:37,44.66983571,-63.44428161,G0060613,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:35:47,44.66980557,-63.44417205,G0060614,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:35:57,44.66973098,-63.44398949,G0060615,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:36:07,44.66963022,-63.4438287,G0060616,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:36:17,44.6695717,-63.44369955,G0060617,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:36:27,44.669529,-63.44362516,G0060618,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:36:37,44.66949597,-63.44357732,G0060619,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:36:47,44.66947282,-63.44353448,G0060620,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:36:57,44.66942932,-63.44349183,G0060621,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:37:07,44.66933148,-63.443456,G0060622,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:37:17,44.66924351,-63.4434769,G0060623,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,5,75-100,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:37:27,44.66913495,-63.44352955,G0060624,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:37:37,44.66901788,-63.44356608,G0060625,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:37:47,44.66890061,-63.44363806,G0060626,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:37:57,44.66879458,-63.44370071,G0060627,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:38:07,44.66867798,-63.44378392,G0060628,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:38:17,44.66854445,-63.44383832,G0060629,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:38:27,44.66841966,-63.44388331,G0060630,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:38:37,44.66829977,-63.44393542,G0060631,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:38:47,44.66818958,-63.44394614,G0060632,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:38:57,44.66808768,-63.44391149,G0060633,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:39:07,44.66796457,-63.44385796,G0060634,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:39:17,44.66785573,-63.44379103,G0060635,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:39:27,44.66774981,-63.44371312,G0060636,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:39:36,44.66768276,-63.44361112,G0060637,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:39:37 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:39:47,44.66759224,-63.44347798,G0060638,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:39:58,44.66749394,-63.44333799,G0060639,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:39:57 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:40:07,44.66743077,-63.44321633,G0060640,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:40:17,44.66736532,-63.44310936,G0060641,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:40:27,44.66731376,-63.44302689,G0060642,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:40:37,44.66724246,-63.44291437,G0060643,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:40:47,44.66716263,-63.44277237,G0060644,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:40:57,44.66709569,-63.44262445,G0060645,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:41:07,44.6670316,-63.4424609,G0060646,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:41:17,44.66694575,-63.44230205,G0060647,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:41:27,44.66688634,-63.44216921,G0060648,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:41:37,44.66682798,-63.44204137,G0060649,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:41:47,44.66676637,-63.44189053,G0060650,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:41:57,44.66670187,-63.44173761,G0060651,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:42:07,44.66664311,-63.4415792,G0060652,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:42:17,44.66658354,-63.4414229,G0060653,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:42:28,44.66653108,-63.44124441,G0060654,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:42:27 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:42:37,44.66648573,-63.44110779,G0060655,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:42:47,44.6664311,-63.44095335,G0060656,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:42:57,44.66636457,-63.44077762,G0060657,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:43:07,44.66630429,-63.44059807,G0060658,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:43:17,44.66623599,-63.4404339,G0060659,1,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:43:27,44.66614731,-63.44029663,G0060660,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,1,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:43:38,44.66607317,-63.44020567,G0060661,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:43:37 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:43:47,44.66604063,-63.44014758,G0060662,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,2, 5-25,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:43:57,44.66598365,-63.43999949,G0060663,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:44:07,44.66593035,-63.4397985,G0060664,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:44:19,44.66584232,-63.43959388,G0060665,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,"Actual Time of Photo ""2020-07-17  7:44:17 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:44:27,44.66578833,-63.43944574,G0060666,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:44:37,44.66572761,-63.4393034,G0060667,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:44:47,44.66570085,-63.43923549,G0060668,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:44:57,44.66566026,-63.43915569,G0060669,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,4,50-75,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:45:07,44.66559666,-63.43897757,G0060670,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:45:17,44.66556295,-63.43886949,G0060671,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:45:27,44.66553463,-63.43874309,G0060672,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:45:37,44.66545495,-63.4386263,G0060673,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,?,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:45:47,44.66539732,-63.43846,G0060674,2,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:45:57,44.66536433,-63.43828107,G0060675,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:46:06,44.6653314,-63.43813144,G0060676,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:46:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:46:17,44.66531761,-63.43794862,G0060677,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:46:27,44.66529034,-63.43782277,G0060678,NA,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:46:37,44.66529,-63.43772653,G0060679,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:46:47,44.66524344,-63.43759771,G0060680,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:46:57,44.66519129,-63.4374343,G0060681,1,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:47:06,44.6651465,-63.43730234,G0060682,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,"Actual Time of Photo ""2020-07-17  7:47:07 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:47:17,44.66509705,-63.43716301,G0060683,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,NA,NA,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:47:27,44.66504882,-63.43704433,G0060684,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:47:37,44.66501396,-63.43693036,G0060685,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:47:47,44.66496789,-63.43678095,G0060686,0,NA,NA,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,NA,NA,NA,NA,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:47:57,44.66494114,-63.43663917,G0060687,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:48:07,44.66492439,-63.43656368,G0060688,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:48:18,44.66490146,-63.43647927,G0060689,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,"Actual Time of Photo ""2020-07-17  7:48:17 AM""",A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:48:27,44.66487701,-63.43639291,G0060690,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:48:37,44.66485643,-63.43631035,G0060691,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:48:47,44.66483103,-63.43626871,G0060692,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:48:57,44.66483658,-63.43626825,G0060693,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:49:07,44.66485737,-63.43628117,G0060694,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:49:17,44.66484688,-63.43626808,G0060695,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:49:27,44.66484173,-63.43625595,G0060696,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:49:37,44.66489612,-63.43622499,G0060697,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:49:47,44.66497794,-63.43619543,G0060698,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:49:57,44.66506933,-63.43613181,G0060699,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:50:07,44.66513783,-63.43605583,G0060700,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:50:17,44.66520829,-63.43594456,G0060701,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:50:27,44.66525219,-63.43580855,G0060702,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:50:37,44.66528393,-63.43565877,G0060703,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:50:47,44.66529542,-63.43550972,G0060704,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:50:57,44.66526678,-63.43539155,G0060705,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:51:07,44.66525969,-63.43526832,G0060706,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:51:17,44.6652222,-63.43514175,G0060707,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:51:27,44.66517859,-63.43503371,G0060708,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:51:37,44.66512445,-63.43493778,G0060709,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:51:47,44.66506035,-63.43486265,G0060710,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:51:57,44.66501237,-63.43474821,G0060711,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:52:07,44.66493659,-63.4346728,G0060712,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:52:17,44.664853,-63.43461202,G0060713,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:52:27,44.66477158,-63.43454011,G0060714,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:52:37,44.66466847,-63.43448495,G0060715,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:52:47,44.66455374,-63.43442267,G0060716,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,1,0.5,<5,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:52:57,44.66446471,-63.43439955,G0060717,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:53:07,44.66444767,-63.43443525,G0060718,2,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:53:17,44.66444343,-63.43446454,G0060719,2,3,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:53:27,44.66444577,-63.43447854,G0060720,3,2,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:53:37,44.66448822,-63.4344769,G0060721,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:53:47,44.66449348,-63.43443953,G0060722,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:53:57,44.66440499,-63.43444644,G0060723,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
+Jordy Thomson,Cole Harbour,Observation,,17-07-2020 07:54:07,44.66427166,-63.43441579,G0060724,3,1,Soft,Zostera marina,urn:lsid:marinespecies.org:taxname:495077,0,0,0,0,A.O.,,A.D.
