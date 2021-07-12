@@ -14,13 +14,19 @@ setwd(dir="C:/Users/jf482672/Documents/atlantic-bio-data/eac/eelgrass")
 ast_to_utc <- function(date_str) {
   out_date <- as.POSIXct(date_str, format="%d-%m-%Y %H:%M:%S", tz="America/Halifax")
   attr(out_date, "tzone") <- "UTC"
-  return(format_ISO8601(out_date))
+  # Add the 'Z' to the end of ISO date string to show that it is UTC
+  out_date_str <- paste(sep="", format_ISO8601(out_date), "Z")
+  return(out_date_str)
 }
 
-raw_csv_filename <- "EAC_CitSci_Eelgrass_Data_First_Complete_Trip_2Mar21_JT_2020-08-10.csv"
+raw_csv_filename <- "sample_data/2021-07-05/Trial OBIS Data.csv"
 eelgrassData <- 
   read.csv(raw_csv_filename) %>% 
-  rename(
-    decimalLatitude = latitude,
-    decimalLongitude = longitude) %>% 
-  mutate(eventDate = ast_to_utc(local.time))
+  mutate(eventDate = ast_to_utc(eventDate)) %>%
+  mutate(organization = "EAC") %>%
+  unite("occurrenceID", eventDate,organization,location,image.filename, remove=FALSE) %>%
+  mutate(occurrenceID = str_replace(occurrenceID, " ", "_"))
+
+occurrenceData <- eelgrassData %>%
+  select(occurrenceID, eventDate, decimalLongitude, decimalLatitude, scientificName, scientificNameID, occurrenceStatus, basisOfRecord)
+
