@@ -27,6 +27,11 @@ eelgrassData <-
   unite("occurrenceID", eventDate,organization,location,image.filename, remove=FALSE) %>%
   mutate(occurrenceID = str_replace(occurrenceID, " ", "_"))
 
-occurrenceData <- eelgrassData %>%
-  select(occurrenceID, eventDate, decimalLongitude, decimalLatitude, scientificName, scientificNameID, occurrenceStatus, basisOfRecord)
+#occurrenceData <- eelgrassData %>%
+#  select(occurrenceID, eventDate, decimalLongitude, decimalLatitude, scientificName, scientificNameID, occurrenceStatus, basisOfRecord)
 
+occurrenceData <- eelgrassData %>%
+  select(occurrenceID)
+
+eventData <- eelgrassData %>%
+  select()
