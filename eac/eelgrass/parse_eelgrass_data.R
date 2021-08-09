@@ -19,19 +19,36 @@ ast_to_utc <- function(date_str) {
   return(out_date_str)
 }
 
+create_occurrence_id <- function(eventID, scientificNameID) {
+  tax_urn <- strsplit(scientificNameID, ":")
+  aphia_id <- tail(tax_urn[[1]], 1)
+  occurrence_id <- paste(sep="_", eventID, aphia_id)
+  return(occurrence_id)
+}
+
 raw_csv_filename <- "sample_data/2021-07-05/Trial OBIS Data.csv"
 eelgrassData <- 
   read.csv(raw_csv_filename) %>% 
   mutate(eventDate = ast_to_utc(eventDate)) %>%
   mutate(organization = "EAC") %>%
-  unite("occurrenceID", eventDate,organization,location,image.filename, remove=FALSE) %>%
-  mutate(occurrenceID = str_replace(occurrenceID, " ", "_"))
+  unite("eventID", eventDate,organization,location,image.filename, remove=FALSE) %>%
+  mutate(eventID = str_replace(eventID, " ", "_")) %>%
+  mutate(occurrenceID = create_occurrence_id(eventID, scientificNameID))
 
 #occurrenceData <- eelgrassData %>%
 #  select(occurrenceID, eventDate, decimalLongitude, decimalLatitude, scientificName, scientificNameID, occurrenceStatus, basisOfRecord)
 
 occurrenceData <- eelgrassData %>%
-  select(occurrenceID)
+  select(eventID, location, occurrenceID, scientificName, scientificNameID, occurrenceStatus)
 
 eventData <- eelgrassData %>%
-  select()
+  select(eventDate, eventID, decimalLatitude, decimalLongitude, location, image.filename, image.quality, est.cam.height, substrate, image.coder, notes, QC.review)
+
+emofData <- eelgrassData %>%
+  select(occurrenceID, braun.blanquet, Percent.cover) %>%
+  mutate(measurementType = "cover") %>%
+  mutate(measurementTypeID = "http://vocab.nerc.ac.uk/collection/P01/current/SDBIOL10/") %>%
+  rename(measurementValue = Percent.cover) %>%
+  mutate(measurementUnit = "percent") %>%
+  mutate(measurementUnitID = "http://vocab.nerc.ac.uk/collection/P06/current/UPCT")
+
