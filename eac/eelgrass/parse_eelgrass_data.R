@@ -52,3 +52,6 @@ emofData <- eelgrassData %>%
   mutate(measurementUnit = "percent") %>%
   mutate(measurementUnitID = "http://vocab.nerc.ac.uk/collection/P06/current/UPCT")
 
+write.csv(occurrenceData, "occurrence.csv")
+write.csv(eventData, "event.csv")
+write.csv(emofData, "emof.csv")
