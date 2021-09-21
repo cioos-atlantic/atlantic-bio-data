@@ -11,6 +11,7 @@
 * [Sample datasets with R code](https://github.com/ioos/bio_data_guide/tree/master/Standardizing%20Marine%20Biological%20Data/datasets)
 * [OTN Blue Shark event core dataset](https://github.com/tdwg/dwc-for-biologging/wiki/Acoustic-sensor-enabled-tracking-of-blue-sharks)
 * [Docker IPT](https://github.com/gbif/ipt/blob/master/package/docker/README.md)
+* [IOOS Bio Data Standardization Guide](https://ioos.github.io/bio_data_guide/intro.html)
 
 ## EAC Eelgrass data
 
